@@ -25,3 +25,4 @@
 ## 三、下载
 [替换文件](./MarkdownPad2.exe)
 [安装文件](./markdownpad2-setup.exe)
+[注册机](./MarkdownPad.rar)
